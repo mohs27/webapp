@@ -1,0 +1,10 @@
+.flexGrid {
+  display: flex;
+  flex-direction: row;
+  gap: var(--mantine-spacing-lg);
+  overflow: auto;
+}
+
+.flexColumn {
+  flex: 0 0 rem(277px);
+}
